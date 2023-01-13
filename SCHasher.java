@@ -16,7 +16,7 @@ import java.util.BitSet;
  * but Pinocchio is patching at an higher level which wouldn't need anything more.
  * 
  *
- * Created by igio90 on 14/09/17.
+ * Created by igio90 on 14/09/17
  */
 
 public class SCHasher {
